@@ -1,6 +1,6 @@
 # Примеры проектов.
 1. [toloka-prefect](https://github.com/Toloka/toloka-prefect): opensource библиотека для облегчения создания пайплайнов работы с данными, в которых используется краудсорсинг.
-2. Небольшие задания и проекты в рамках курсов по ML/DL (из-за учебного характера ноутбуков не весь код написан мной, но всё, что в них находится, является частью моих знаний и навыков):
+2. Небольшие задания и проекты в рамках курсов по ML/DL (ноутбуки учебные, поэтому не весь код написан мной, но всё, что в них находится, является частью моих знаний и навыков):
 * [Sneaker images generation with GAN](https://github.com/smalda/project_examples/blob/main/ML/CV/GAN-Sneakers-generation.ipynb): использование DCGAN и SRGAN для генерации изображений кроссовок.
 * [Bird semantic segmenation](https://github.com/smalda/project_examples/blob/main/ML/CV/Bird-semantic-segmenation.ipynb)(только код, но отдельно протестированный): бинарная сегментация изображений птиц с помощью Lite R-ASPP и DiceLoss + CELoss.
 * [Car detection](https://github.com/smalda/project_examples/blob/main/ML/CV/Car-detection.ipynb)(только код, но отдельно протестированный): детекция машин на изображении на базе полносвёрточного классификатора, с применением подавления множественных обнаружений и подсчёт PR AUC.
