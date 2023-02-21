@@ -7,6 +7,5 @@
 * [Seq2seq models](https://github.com/smalda/project_examples/blob/main/ML/NLP/Seq2seq-models.ipynb): реализация простого машинного перевода с помощью простых GRU и GRU+attention.
 * [Volume calculation with ML](https://github.com/smalda/project_examples/blob/main/ML/volume_calculation_with_ML/task.ipynb): рассчет примерного объема моделей горок песка по файлам DEM (в основном с помощью [`Open3d`](https://github.com/isl-org/Open3D) и [`volpy`](https://github.com/agu3rra/volpy)).
 * [Denoising Autoencoders](https://github.com/smalda/project_examples/blob/main/ML/CV/Denoising-Autoencoders.ipynb): работа с шумоподавляющими глубокими автоэнкодерами.
-3. [telegram bot](https://github.com/smalda/project_examples/tree/main/telegram_bot): помогает найти фильмы на английском вместе с краткой информацией по ним.
 
 
